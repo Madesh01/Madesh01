@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madesh.R</h1>
 <h3 align="center">I'm passionate MERN Stack developer...</h3>
 
-<p align="right" width="200px> <img src=https://www.bigscal.com/wp-content/uploads/2022/09/Features-of-Mern-stack-development-services-You-Should-Know.png /> </p>
+<p align="left" width="200px> <img src=https://www.bigscal.com/wp-content/uploads/2022/09/Features-of-Mern-stack-development-services-You-Should-Know.png /> </p>
 
 - 🌱 I’m currently looking for **Mern stack Devloper...**
 
